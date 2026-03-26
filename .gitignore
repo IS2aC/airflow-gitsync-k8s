@@ -1,0 +1,3 @@
+airflow-postgresql-credentials-secret.yaml
+configs_k8s/airflow_gitsync_id_rsa
+configs_k8s/airflow_gitsync_id_rsa.pub
